@@ -1,4 +1,4 @@
-# Restrofit RESTAPI with GetIt
+# Retrofit RESTAPI with GetIt
 
 A new Flutter project.
 

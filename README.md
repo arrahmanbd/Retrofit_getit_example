@@ -1,4 +1,4 @@
-# rest_api
+# Restrofit RESTAPI with GetIt
 
 A new Flutter project.
 
